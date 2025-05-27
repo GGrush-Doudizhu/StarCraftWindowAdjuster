@@ -1,0 +1,2 @@
+# StarCraftWindowAdjuster
+set sc window
