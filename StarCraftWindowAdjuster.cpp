@@ -1,4 +1,5 @@
-﻿#define NOMINMAX
+// Windows Desktop Wizard
+#define NOMINMAX
 #include <windows.h>
 #include <commctrl.h> // For Trackbar control (TRACKBAR_CLASS)
 #include <string>
